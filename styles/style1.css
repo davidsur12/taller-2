@@ -1,0 +1,60 @@
+body{
+
+    background-color: #0B0754;
+	
+}
+p{
+    color: aliceblue;
+}
+.text{
+    color: #000;
+}
+
+h1{
+    color: aliceblue;
+}
+
+.redondeado {
+    border-radius: 5px;
+    background-color: #def;
+    border: 0;
+  }
+
+  #ejercicios{
+      background-color: #def;
+  }
+  #textphp{
+       color: #000;
+  }
+  
+  
+  .contenedorpadre {
+  background: yellow;
+  height: auto;
+  /*IMPORTANTE*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  .contenedor{
+	  
+	 background: red;
+     width: auto;
+	 
+	  
+	  /*
+    background: red;
+    width: 50%;
+    justify-content: center;
+	color:#000 ;*/
+  
+    
+  }
+  .contenedor1{
+	 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	  
+  }
+  
